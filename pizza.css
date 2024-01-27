@@ -1,0 +1,12 @@
+label{
+    width: 50px;
+    display:inline-block;
+    }
+
+input::placeholder{
+    color: blue;
+}
+.all{
+  background-color: rgba(127, 251, 255, 0.712);
+   
+}
